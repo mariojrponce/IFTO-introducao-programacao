@@ -37,6 +37,3 @@ public class Prog6 {
             System.out.println(x + " é ímpar");
     }
 }
- {
-    
-}
