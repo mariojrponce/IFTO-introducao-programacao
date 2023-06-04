@@ -49,3 +49,21 @@ Os comportamentos de um objeto são definidos por seus métodos. Métodos são b
 Ao criar um objeto, estamos instanciando uma classe, ou seja, criando uma cópia da estrutura definida pela classe em memória. Podemos criar vários objetos da mesma classe, cada um com suas próprias propriedades e comportamentos.
 
 Em resumo, um objeto é uma instância específica de uma classe, representando uma entidade com características e comportamentos próprios. Ele combina propriedades para armazenar dados e métodos para realizar ações relacionadas a esses dados.
+
+## O que é uma instancia
+
+Uma instância é um termo usado para se referir a um objeto específico criado a partir de uma classe. Quando você cria uma instância, está criando uma cópia da estrutura definida pela classe em memória, com suas próprias propriedades e comportamentos.
+
+Uma classe é uma definição que descreve um tipo de objeto, especificando suas características (propriedades) e comportamentos (métodos). Por exemplo, uma classe "Carro" pode definir as propriedades como marca, modelo e cor, e os métodos como acelerar, frear e virar à esquerda.
+
+Uma vez que a classe é definida, você pode criar uma ou mais instâncias dessa classe. Cada instância é um objeto único e independente com suas próprias cópias das propriedades definidas na classe. Você pode atribuir valores diferentes às propriedades de cada instância e chamá-las separadamente para executar seus métodos.
+
+A criação de uma instância geralmente envolve o uso da palavra-chave new em conjunto com o construtor da classe. O construtor é um método especial dentro da classe que é chamado no momento da criação do objeto e pode ser usado para inicializar suas propriedades.
+
+Por exemplo, considerando a classe "Carro" mencionada anteriormente, podemos criar uma instância da seguinte maneira:
+
+`Carro meuCarro = new Carro();`
+
+Nesse caso, a palavra-chave new é usada para criar uma nova instância da classe "Carro", e o resultado é atribuído à variável meuCarro. Agora, meuCarro é uma instância específica da classe "Carro" com suas próprias propriedades e métodos.
+
+Em resumo, uma instância é um objeto específico criado a partir de uma classe, que possui suas próprias cópias das propriedades definidas na classe. Cada instância é independente e pode ser manipulada separadamente das outras instâncias da mesma classe.
