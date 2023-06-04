@@ -35,3 +35,17 @@ O método construtor é um método especial que é chamado quando um objeto da c
 ### Método main
 
 O método main é o ponto de entrada do programa Java. Ele é responsável por executar o programa e chamar outros métodos necessários. Ele é um método estático e é executado sem a necessidade de criar uma instância da classe.
+
+## O que é um objeto
+
+Um objeto é uma entidade que representa uma instância única de uma classe. Ele é uma estrutura de dados que combina comportamentos (métodos) e características (propriedades) relacionadas.
+
+Podemos pensar em um objeto como uma entidade do mundo real, como um carro, uma pessoa ou uma conta bancária. Cada objeto possui suas próprias características específicas e pode executar ações correspondentes aos seus comportamentos.
+
+As características de um objeto são representadas por suas propriedades ou variáveis de instância. Por exemplo, um objeto "Carro" pode ter propriedades como marca, modelo e cor. Essas propriedades definem as características específicas desse objeto.
+
+Os comportamentos de um objeto são definidos por seus métodos. Métodos são blocos de código que representam ações que um objeto pode realizar. Por exemplo, um objeto "Carro" pode ter métodos como acelerar, frear e virar à esquerda, que descrevem as ações que o carro pode executar.
+
+Ao criar um objeto, estamos instanciando uma classe, ou seja, criando uma cópia da estrutura definida pela classe em memória. Podemos criar vários objetos da mesma classe, cada um com suas próprias propriedades e comportamentos.
+
+Em resumo, um objeto é uma instância específica de uma classe, representando uma entidade com características e comportamentos próprios. Ele combina propriedades para armazenar dados e métodos para realizar ações relacionadas a esses dados.
